@@ -1,0 +1,83 @@
+/*Import Open Sans from google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+	background-color: #19292d;
+	color:white;
+	font-family: 'Open Sans';
+}
+a {
+	color:white;
+	text-decoration: none;
+}
+a:hover{
+	color:green;
+}
+.timeline-gandhi{
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.timeline-gandhi td{
+	font-family: 'Open Sans',Arial, sans-serif;
+	font-size: 16px;
+	padding: 10px 10px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+}
+.timeline-gandhi th{
+	font-family: 'Open Sans',Arial, sans-serif;
+	font-size: 20px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+}
+.timeline-gandhi .tg-yw4l{
+	vertical-align:top;
+}
+.heading{
+	text-align: center;
+}
+.right-text-align{
+	text-align: right;
+}
+.center-text-align{
+	text-align: center;
+}
+.smaller-text{
+	font-size: 15px;
+}
+footer{
+	bottom: 0;
+	width: 99%;
+}
+.index-gandhi-img{
+	display:block;
+	height: 100%;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img-collection{
+	display:block;
+	width:1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.photo-collection{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+figcaption{
+	text-align: center;
+}
+#nav-menu{
+	font-size: 18px;
+}
+h5{
+	font-style: italic;
+}
